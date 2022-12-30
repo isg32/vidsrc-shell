@@ -9,6 +9,7 @@ git clone https://github.com/isg32/vidsrc-shell/
 ```
 ## Make it executable first !
 ```sh
+cd vidsrc-shell
 chmod +x vidsrc.sh
 ```
 
